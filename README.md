@@ -1,0 +1,1 @@
+class_addMethod使用的示例,博客对应的示例
